@@ -1,0 +1,12 @@
+{
+	"name": "RatingHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/TahsinPavel/Anime-Recommandation-System-using-Azure-Data-bricks-and-Azure-Data-Factory/main/data/rating.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
