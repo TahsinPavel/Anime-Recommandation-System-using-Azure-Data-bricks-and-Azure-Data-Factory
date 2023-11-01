@@ -1,0 +1,9 @@
+{
+	"name": "anime-recommandation-system",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b583b888-c985-46e4-9527-5df008fe7413",
+		"tenantId": "3d94fd6f-0755-49cc-a8ad-0b71b1db3ea0"
+	}
+}
